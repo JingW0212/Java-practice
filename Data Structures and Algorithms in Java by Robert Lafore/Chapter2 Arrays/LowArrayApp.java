@@ -1,6 +1,6 @@
 package chapter2arrays;
 
-//lowArray.java
+//LowArrayApp.java
 //demonstrates array class with low.level interface
 //to run this program: C:>java LowArrayApp
 
