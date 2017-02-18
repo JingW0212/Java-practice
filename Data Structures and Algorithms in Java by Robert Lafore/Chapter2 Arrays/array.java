@@ -25,7 +25,7 @@ public class ArrayApp {
 		nElems = 10;
 		//---------------------------------
 		for(j=0; j<nElems; j++)
-			System.out.print(arr[j] + "");
+			System.out.print(arr[j] + " ");
 		System.out.println("");
 		//---------------------------------
 		searchKey = 86;
@@ -46,7 +46,7 @@ public class ArrayApp {
 		nElems--;
 		//---------------------------------
 		for(j=0; j<nElems; j++)
-			System.out.print( arr[j] + "");
+			System.out.print( arr[j] + " ");
 		System.out.println("");
 
 	} //end main()
