@@ -1,5 +1,5 @@
 package chapter2arrays;
-//array.java
+//ArrayApp.java
 //demonstrates Java arrays
 //to run this program: C:>java arrayApp
 
