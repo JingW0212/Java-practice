@@ -1,2 +1,2 @@
 # Java-practice
-## This is a java practice file
+This is a java practice file
