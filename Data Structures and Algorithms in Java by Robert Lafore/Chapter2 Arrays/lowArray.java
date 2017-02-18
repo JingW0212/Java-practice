@@ -24,7 +24,7 @@ class LowArray {
 } //end class LowArray
 
 
-public class lowArrayApp {
+public class LowArrayApp {
 	
 	public static void main(String[] args) {
 		LowArray arr;                        //reference
